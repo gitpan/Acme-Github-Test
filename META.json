@@ -4,7 +4,7 @@
       "Mark Allen <mrallen1@yahoo.com>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.3901, CPAN::Meta::Converter version 2.120630",
+   "generated_by" : "Module::Build version 0.4003, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
    ],
@@ -33,7 +33,7 @@
    "provides" : {
       "Acme::Github::Test" : {
          "file" : "lib/Acme/Github/Test.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -45,5 +45,5 @@
          "url" : "https://github.com/mrallen1/Acme-Github-Test.git"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
