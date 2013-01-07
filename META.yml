@@ -16,10 +16,10 @@ name: Acme-Github-Test
 provides:
   Acme::Github::Test:
     file: lib/Acme/Github/Test.pm
-    version: 0.02
+    version: 0.03
 requires:
   perl: 5.014
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/mrallen1/Acme-Github-Test.git
-version: 0.02
+version: 0.03

@@ -50,7 +50,7 @@ Mark Allen C<< <mallen@cpan.org> >>
 
 =item * https://github.com/mrallen1/Acme-Github-Test
 
-=item * https://speakerdeck.com/u/mrallen1/intro-to-git
+=item * https://speakerdeck.com/mrallen1/intro-to-git-for-the-perl-hacker
 
 =back
 
@@ -64,9 +64,9 @@ Public License (version 2)
 
 =cut
 
-package Acme::Github::Test 0.02 {
+package Acme::Github::Test 0.03 {
 
-  our $VERSION = '0.02';
+  our $VERSION = '0.03';
 
   sub new {
       my $class = shift;
